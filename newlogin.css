@@ -1,0 +1,135 @@
+body {
+    background-color: rgb(206, 226, 246);
+}
+.main-form {
+    background-color: white;
+    width: 34%;
+    height: 96vh;
+    margin: 13px 10px 12px 400px;
+
+}
+.form-header {
+    margin-left: 14px;
+    margin-top: 10px;
+    font-family: arial;
+    margin-bottom: 4px;
+}
+.form-subtitle {
+    margin-left: 14px;
+    margin-top: 0px;
+    font-family: arial;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+
+.first-name {
+    width: 42%;
+    height: 8vh;
+    border-radius: 8px;
+    background-color: rgb(214, 234, 253);
+    margin: 22px 8px 15px 12px;
+    padding-left: 15px;
+    font-size: 19px;
+    border: 1px solid rgb(188, 185, 185);
+}
+
+.last-name {
+    width: 41%;
+    height: 8vh;
+    border-radius: 8px;
+    background-color: rgb(214, 234, 253);
+    padding-left: 15px;
+    font-size: 19px;
+    border: 1px solid rgb(188, 185, 185);
+}
+
+.email {
+    width: 90%;
+    height: 7vh;
+    margin-left: 10px;
+    border-radius: 8px;
+    background-color: rgb(214, 234, 253);
+    padding-left: 20px;
+    font-size: 19px;
+    margin-bottom: 13px;
+    border: 1px solid rgb(188, 185, 185);
+
+}
+
+.password {
+    width: 90%;
+    height: 7vh;
+    margin-left: 10px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(214, 234, 253);
+    padding-left: 20px;
+    font-size: 19px;
+    border: 1px solid rgb(188, 185, 185);
+}
+
+.brith-day {
+    margin-left: 12px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    margin-top: 10px;
+    
+}
+
+.gender-paragraph {
+    margin-left: 12px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.date {
+    width: 30%;
+    height: 6vh;
+    border-radius: 8px;
+    margin-left: 8px;
+    font-size: 17px;
+    background-color: white;
+    border: 1px solid rgb(0, 0, 0);
+    padding-left: 15px;
+}
+
+p {
+    font-size: 12px;
+    margin-left: 12px;
+    width: 93%;
+}
+
+
+.sign-up-button {
+    margin-left: 130px;
+    width: 220px;
+    height: 45px;
+    margin-top: 10px;
+    background-color: rgb(17, 151, 17);
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.sign-up-button:hover {
+    opacity: 0.6;
+}
+.sign-up-button:active {
+    margin-top: 16px;
+}
+
+.close-icon {
+    margin-left: 300px; 
+    color: rgb(99, 96, 96); 
+    font-size: 37px;
+     cursor:copy;
+}
+
+#close-icon {
+    text-decoration: none;
+}

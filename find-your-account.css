@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(231, 231, 231);
+}
+.form{
+    width: 40%;
+    height: 47vh;
+    background-color: rgb(255, 255, 255);
+    margin: 150px 20px  15px 30%;
+    border-radius: 8px;
+}
+.form-header {
+    font-family: arial;
+    font-size: 23px;
+    margin: 60px 10px 20px 20px;
+    padding-top: 14px;
+    margin-bottom: 0px;
+}
+.form-paragraph {
+    padding-left: 25px;
+    font-size: 19px;
+}
+.email {
+    width:88%;
+    height: 9vh;
+    margin-left: 15px;
+    padding-left: 20px;
+    font-size: 18px;
+    border: none;
+    margin-bottom: 6px;
+    border-radius: 8px;
+    background-color: rgb(221, 245, 250);
+}
+.cancel-button {
+    margin-left: 55%;
+    width: 92px; 
+    height:7vh;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(230, 226, 226);
+    margin-right: 9px;
+    cursor: pointer;
+   
+}
+.search-button {
+    background-color: rgb(12, 145, 240);
+    width: 92px; 
+    height:7vh;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+
+

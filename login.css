@@ -1,0 +1,109 @@
+body {
+    background-color: rgb(228, 217, 173);
+}
+.login {
+    width: 29%;
+    height: 73vh;
+    background-color: white;
+    margin: 110px 12px 10px 800px;
+    border-radius: 10px;
+}
+.form-header {
+    padding-left: 43%;
+    padding-top: 0px;
+    font-size: 29px;
+    padding-bottom: 0px;
+
+}
+.email {
+    width: 85%;
+    margin-left: 15px;
+    height: 8vh;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+    cursor: pointer;
+    border-radius: 8px;
+    padding-left: 20px;
+}
+.password {
+    width: 85%;
+    margin-left: 15px;
+    height: 8vh;
+    margin-top: 0px;
+    margin-bottom: 17px;
+    border: 1px solid gray;
+    cursor: pointer;
+    border-radius: 8px;
+    padding-left: 20px;
+}
+.submit {
+    background-color: rgb(8, 106, 242);
+    width: 91%;
+    margin-left: 15px;
+    height: 8vh;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    transition: box-shadow 0.15s;
+    transition: opacity 0.3s;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.submit:hover {
+    box-shadow: 6px 6px 12px   rgba(0, 0, 0, 0.5);
+    opacity: 0.8;
+}
+.submit:active {
+    background-color: white;
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+#un{
+    text-decoration: none;
+}
+.forgot {
+    margin-left: 120px;
+    margin-bottom: 0px;
+    
+
+}
+.forgot:hover {
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+    
+}
+.check-box {
+    margin-left: 123px;
+    margin-top: 14px;
+}
+.creat-account-button {
+    width: 180px;
+    margin-left: 97px;
+    height: 9vh;
+    background-color: rgb(37, 171, 37);
+    color: white;
+    font-weight: bolder;
+    border: none;
+    font-size: 17px;
+    border-radius: 11px;
+    margin-top: 6px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.creat-account-button:hover {
+    opacity: 0.7;
+}
+.creat-account-button:active {
+    opacity: 0.2;
+}
+.creat-account-link {
+    color: white;
+    text-decoration: none;
+}
+
